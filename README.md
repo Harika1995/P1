@@ -28,7 +28,7 @@ My Repository Link:
 https://github.com/Harika1995/P1
 
 Output:
-
+![screenshot](https://github.com/Harika1995/P1/blob/master/Screenshot%20(250).png)
 
 
 
